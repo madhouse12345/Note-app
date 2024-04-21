@@ -9,7 +9,7 @@ Edit existing notes
 Delete notes
 Responsive design for mobile and desktop use
 
-For project overview please visit git-hub pages :- https://github.com/madhouse12345/Note-app/
+For project overview please visit git-hub pages :-https://madhouse12345.github.io/Note-app/
 
 Installation
 Clone the repository:
